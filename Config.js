@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "254707541188", // your number with country code
   OWNER_NAME: 'MESH KE', // your owner name 
   BOT_NAME: "MESH-TECH", // your preferred bot name
-  SESSION_ID: '', // put your session id between the ''
+  SESSION_ID: 'kord_ai-x1rYWwhZ01f3', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Nairobi",
