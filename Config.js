@@ -18,7 +18,7 @@ global.settings = {
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
   AUTO_LIKE_STATUS: true,
-  AUTO_LIKE_EMOJI: '🍁',
+  AUTO_LIKE_EMOJI: '🩷',
   BANKING_DETAILS: {
     bank: "Standard Chartered Bank", // the name of your preferred bank
     acc_number: "0100440885900", // account number for your preferred bank
